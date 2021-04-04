@@ -7,7 +7,16 @@
 > 创作不易，感谢大家的打赏支持，这些钱基本不会用于购买咖啡，而是通过腾讯公益、美团公益、水滴筹等平台捐赠给需要帮助的人（[点击](./更新日志.md)了解捐赠情况）。需要加入QQ交流群的可以扫描下面的二维码，交流群会为大家提供**学习资源**和**问题解答**，还会持续为大家带来**免费的线上Python体验课和行业公开课**，敬请关注。
 
 ![](./res/python-qq-group.png)
+## 快速下载通道
+- [x] [Cloudflare Workers加速通道
 
+https://github.91chifun.workers.dev//https://github.com/jychenger/Python-100-Days.git](https://github.91chifun.workers.dev//https://github.91chifun.workers.dev//https://github.com/jychenger/Python-100-Days.git)
+- [x] [FastGit.ORG加速通道
+
+https://hub.fastgit.org/jychenger/Python-100-Days.git](https://hub.fastgit.org/jychenger/Python-100-Days.git)
+- [x] [CNPMJS.ORG加速通道
+
+https://github.com.cnpmjs.org/jychenger/Python-100-Days.git](https://github.com.cnpmjs.org/jychenger/Python-100-Days.git)
 ### Python应用领域和职业发展分析
 
 简单的说，Python是一个“优雅”、“明确”、“简单”的编程语言。
